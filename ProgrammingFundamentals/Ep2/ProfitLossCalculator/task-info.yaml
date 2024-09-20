@@ -3,7 +3,7 @@ files:
   - name: src/Task.kt
     visible: true
     placeholders:
-      - offset: 128
+      - offset: 97
         length: 30
         placeholder_text: TODO()
         initial_state:
@@ -13,7 +13,7 @@ files:
         selected: true
         status: Solved
         encrypted_possible_answer: A94HHC5GufoqLSYznhOXBnqm4o+12SG9ClTy2QNY3jU=
-      - offset: 265
+      - offset: 234
         length: 28
         placeholder_text: return sp * 100 / (100 + pl)
         initial_state:
@@ -23,7 +23,7 @@ files:
         selected: true
         status: Solved
         encrypted_possible_answer: PLSlppYtZZWm4Jl/757a5CBpqGzjT1nNOhdbgf9s3DCCGY2tt3dZToE76q0pXMb5
-      - offset: 400
+      - offset: 369
         length: 47
         placeholder_text: return (sp - cp) / cp * 100
         initial_state:
@@ -33,7 +33,7 @@ files:
         selected: true
         status: Solved
         encrypted_possible_answer: chiuu/k00OrrrjhdFRWEIuiNlsStqftE9PvR3BV5LJqYLgigcK2AV2rGkO0MYZGZuwT52PQvOnzIBKhpVY8atw==
-      - offset: 493
+      - offset: 462
         length: 43
         placeholder_text: return absPL / cp * 100
         initial_state:
@@ -43,7 +43,7 @@ files:
         selected: true
         status: Solved
         encrypted_possible_answer: 05czHJnKtfVynQ9VbJ1FChKPHcK+LDKc0uf4668bS7S8ZP0tELJFpMYhjks4uqpRyb7/P/PrV1+jqWGhhhLsjA==
-      - offset: 582
+      - offset: 551
         length: 53
         placeholder_text: return absPL / (sp - absPL) * 100
         initial_state:
