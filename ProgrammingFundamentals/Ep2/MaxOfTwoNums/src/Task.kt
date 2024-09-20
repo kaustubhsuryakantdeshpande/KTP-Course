@@ -10,3 +10,5 @@ fun maxOf(x: Int, y: Int): Int {
 fun main() {
     MaxOfTwoNumsMiniApp(::maxOf)
 }
+
+//

@@ -1,10 +1,10 @@
 import com.faangx.ktp.basics.OddEvenCheckerMiniApp
 
 fun checkEvenOdd(num: Int): String {
-    if (num % 2 == 0) {
-        return "Even"
+    return if (num % 2 == 0) {
+        "Even"
     } else {
-        return "Odd"
+        "Odd"
     }
 }
 
@@ -12,3 +12,4 @@ fun main() {
     OddEvenCheckerMiniApp(::checkEvenOdd)
 }
 
+//

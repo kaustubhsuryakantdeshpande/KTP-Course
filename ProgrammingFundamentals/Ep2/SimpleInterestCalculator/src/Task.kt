@@ -7,3 +7,4 @@ fun getInterest(p: Float, r: Float, t: Float): Float {
 fun main() {
     SimpleInterestCalculatorV1MiniApp(::getInterest)
 }
+//

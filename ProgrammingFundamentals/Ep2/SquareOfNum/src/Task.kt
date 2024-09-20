@@ -7,3 +7,4 @@ fun square(x: Long): Long {
 fun main() {
     SquareOfNumV1MiniApp(::square)
 }
+//

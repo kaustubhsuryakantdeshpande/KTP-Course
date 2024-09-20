@@ -7,3 +7,5 @@ fun canVote(age: Int): Boolean {
 fun main() {
     VoteAgeCheckerMiniApp(::canVote)
 }
+
+//

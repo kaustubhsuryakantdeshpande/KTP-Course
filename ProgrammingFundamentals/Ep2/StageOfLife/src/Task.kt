@@ -13,3 +13,5 @@ fun stageOfLife(age: Int): String {
 fun main() {
     StageOfLifeMiniApp(::stageOfLife)
 }
+
+//
