@@ -3,39 +3,42 @@ files:
   - name: src/Task.kt
     visible: true
     placeholders:
-      - offset: 94
-        length: 6
+      - offset: 118
+        length: 82
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 94
         initialized_from_dependency: false
         encrypted_possible_answer: QXnFAyDVRaVNL1MehC2gGWRg0od3918bekOJ5MSYDT2G0Z4Byv3aqLfEjqWjlnadCgW4V91CcvZyI63o91tD+x01ril0BptxM2nZk5scm2CaT9tV4J4INMIfGM6XTDGA
-        selected: false
-        status: Unchecked
-      - offset: 153
-        length: 6
+        selected: true
+        status: Solved
+      - offset: 253
+        length: 112
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 153
         initialized_from_dependency: false
         encrypted_possible_answer: m+59XKVbsT2JVQlmzhL1ufUkuS7Jx61y80VVcUuEG0G9d6pXWfZxD1d4pabzcw39R0qZfDUXOgn46NflRRcDqCHLIpC88OGKik9BgMmr+TQBr/WjqduI7It2OeuxhC0obmEg54l37gEGPFTdA0UyZQ==
-        selected: false
-        status: Unchecked
-      - offset: 212
-        length: 6
+        selected: true
+        status: Solved
+      - offset: 418
+        length: 45
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 212
         initialized_from_dependency: false
         encrypted_possible_answer: kJPlz9jdCKBWr88YEm6YZws3WIrXRp+dSLqhUj8A2KrfOG9egGDAzPnww2nAAhn7
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: test/Tests.kt
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 04 Oct 2024 11:23:33 UTC"
 record: -1

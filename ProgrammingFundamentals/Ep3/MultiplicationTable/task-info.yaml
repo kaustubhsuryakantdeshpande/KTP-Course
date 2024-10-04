@@ -4,18 +4,25 @@ files:
     visible: true
     placeholders:
       - offset: 88
-        length: 6
+        length: 77
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 88
         initialized_from_dependency: false
         encrypted_possible_answer: dDroqK5/AfJdNz0YaypvH3GoQDHUzgnf0O0wSgjdtk6szfRIZ8L7mwGKZv2GpQeGqpEia//EWRYZTbSjCJbX8gecYtNaiM4qsgCxUha0JwI=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Failed
     learner_created: false
   - name: test/Tests.kt
     visible: false
     learner_created: false
-status: Unchecked
+status: Failed
+feedback:
+  message: "Wrong table (52  X  1 = 52\r\n52  X  2 = 104\r\n52  X  3 = 156\r\n52 \
+    \ X  4 = 208\r\n52  X  5 = 260\r\n52  X  6 = 312\r\n52  X  7 = 364\r\n52  X  8\
+    \ = 416\r\n52  X  9 = 468\r\n52  X  10 = 520\r\n) printed for 52, expected (52\
+    \ X 1 = 52\n52 X 2 = 104\n52 X 3 = 156\n52 X 4 = 208\n52 X 5 = 260\n52 X 6 = 312\n\
+    52 X 7 = 364\n52 X 8 = 416\n52 X 9 = 468\n52 X 10 = 520\n)"
+  time: "Fri, 04 Oct 2024 10:50:53 UTC"
 record: -1

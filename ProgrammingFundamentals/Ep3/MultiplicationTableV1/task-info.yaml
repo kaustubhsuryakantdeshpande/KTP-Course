@@ -4,18 +4,26 @@ files:
     visible: true
     placeholders:
       - offset: 112
-        length: 6
+        length: 75
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 112
         initialized_from_dependency: false
         encrypted_possible_answer: eq6GGM27NYdj+u0t30gVYETSbVKH+2pjH3j8Q+OZep7+pfGf71XdJb70NKq8Eztso2VT9dw63SfMXI/oXlYU0O1DSmG0JpD6GN4KziV8bhE=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Failed
     learner_created: false
   - name: test/Tests.kt
     visible: false
     learner_created: false
-status: Unchecked
+status: Failed
+feedback:
+  message: "Wrong table (62 x 66 = 4092\r\n62 x 67 = 4154\r\n62 x 68 = 4216\r\n62\
+    \ x 69 = 4278\r\n62 x 70 = 4340\r\n62 x 71 = 4402\r\n62 x 72 = 4464\r\n62 x 73\
+    \ = 4526\r\n62 x 74 = 4588\r\n62 x 75 = 4650\r\n62 x 76 = 4712\r\n) printed for\
+    \ 62, expected (62 X 66 = 4092\n62 X 67 = 4154\n62 X 68 = 4216\n62 X 69 = 4278\n\
+    62 X 70 = 4340\n62 X 71 = 4402\n62 X 72 = 4464\n62 X 73 = 4526\n62 X 74 = 4588\n\
+    62 X 75 = 4650\n62 X 76 = 4712\n)"
+  time: "Fri, 04 Oct 2024 10:57:27 UTC"
 record: -1
