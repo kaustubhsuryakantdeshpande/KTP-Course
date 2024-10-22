@@ -4,12 +4,16 @@ fun printPattern(lines: Int, char1: Char, char2: Char) {
         // Upper part of the pattern
         repeat(lines / 2) { i ->
             repeat(lines) { j ->
-                if (j == lines / 2) {
-                    print(char1)
-                } else if (j == i || j == lines - 1 - i) {
-                    print(char2)
-                } else {
-                    print(" ")
+                when (j) {
+                    lines / 2 -> {
+                        print(char1)
+                    }
+                    i, lines - 1 - i -> {
+                        print(char2)
+                    }
+                    else -> {
+                        print(" ")
+                    }
                 }
             }
             println()
