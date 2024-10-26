@@ -4,78 +4,83 @@ files:
     visible: true
     placeholders:
       - offset: 111
-        length: 6
+        length: 620
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 111
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: hja6u5fbiKgoGWQj2TDQ6ri2I0oZbse+S+DS02inw43kYWuhVlH/jgk6qdH1Xq6+uPIKIdbgfeDxZTYx12Q2ybVqPP6eCGLof7jgZQUTe+7PPgohFPoMBnVH0UbiI2sotqs1WLOn4aNpqvXs6aZCvVoLAdTo2Xl3mPPzGsnCyowgGc8Zuu9sQezQief0BXSS/a3K1k8+cYvnyfx0idP/WnVw+EyxLeuPN3DJ1eeobOkbagOSYK50fYi1NNbeUrJZgWFLVPic8EQ5xYOb12gMPojPaYk4uknxjvyLzdK0hoW0V5AN3m1Xg0tATVGK+cIX3COsEJ8AwkUEXLXyom0QDxFemvmnXchSQAUxHYVFHhQZ2SIX0vCy6uPChR2QUSaBbOXbRACDoMDpjaEwc+JE9FlTereBs88quzgI1aUMwa/Uo01Tf7JWxnM4Kb04O/SwNZM2LztcMEFwqA0ENrciU0h+QgnV8g7eC0OGUdy+UlzLnXjh+D8/SiRIQ3yoGDQDDep3C5ovdIP9A7bYnzBb0Xpa0YLLYutAtOjrir4TrBDAm6dROOZgfet2qN6uesl/nvWrN1l8jt7IMgAgwK0W9dFRvuNI1QwhxksbymYt60h9FDS4UTbxuNdkUZsdWJqGKeyMjrh7MqKr1Pg4bwZSQ1pQ3+I57qe+oOooNYUGDaXxym8nxEbgLb52M8SgLNNX
-        selected: false
-        status: Unchecked
-      - offset: 172
-        length: 15
+      - offset: 876
+        length: 481
         placeholder_text: return "TODO()"
         initial_state:
           length: 15
           offset: 172
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: hja6u5fbiKgoGWQj2TDQ6mUkxgR4Py9qFMBchF9AImpPf0eScccGHA8gcd2zf3wZdFtAcLttLDTt2Z2jxc2S8tMjZ8j4Fl6dCGIrDNJ1yUs6JkLvWCoQooYR+rzUOfi1mMyThirmBzuxvjxPWCXPy/I2GveWElfn6QDpXwwWem5AtPdknMvFS/vDe5eF9sGMzgTXiwuHVxKNC0AFLw6+ZbvyDUvytrPZr57bIE5gJQPw/LK0Acz1lhmtWBkuaREJscecQpvd5n/4cA981YGotY3qtRAfSOJhwRTePJnIS+HXXz22352LLHboY7OOs2I4VPIbsGxbSVhtIMxwmoVE0ehibTdHw3zSZN68TuPh7N9+UJqztD2UOuqqcD1yi6BkjF1zyO3PIcERBABg0dxYRsChDlz5z5pLbQ7bQUlW4+o=
-        selected: false
-        status: Unchecked
-      - offset: 242
-        length: 15
+      - offset: 1412
+        length: 110
         placeholder_text: return "TODO()"
         initial_state:
           length: 15
           offset: 242
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: ZEpnJqvdHzFYGB/7H9VUPw/t7gZp13Q9tRpZaSNrdMUViDExQ+yUxFdJoZfIUULq3hqEGAeViQX0j/rEfaRsSr0irixwvui5noypr+xXbmtPwGlNU9qrPvEHwXi2Y9rT/MiSpt5/1Bkxp4DITeQyZw==
-        selected: false
-        status: Unchecked
-      - offset: 312
-        length: 15
+      - offset: 1577
+        length: 109
         placeholder_text: return "TODO()"
         initial_state:
           length: 15
           offset: 312
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: ZEpnJqvdHzFYGB/7H9VUPw/t7gZp13Q9tRpZaSNrdMUViDExQ+yUxFdJoZfIUULq3hqEGAeViQX0j/rEfaRsSi8bSuRu0aGTXMxNJvg5kylUrrUuc/ETnGzXJ0bTHpCjEsTIJ6xd/2m4gwLTTo3mwA==
-        selected: false
-        status: Unchecked
-      - offset: 382
-        length: 15
+      - offset: 1741
+        length: 187
         placeholder_text: return "TODO()"
         initial_state:
           length: 15
           offset: 382
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: ZEpnJqvdHzFYGB/7H9VUPw/t7gZp13Q9tRpZaSNrdMUViDExQ+yUxFdJoZfIUULq3hqEGAeViQX0j/rEfaRsSgPitv6QKKv/l+NlEHtdUZzDZc2RMVlHPKsN1o8c7X5qcs38uz5CQikH/OGyX6bX7HP9oBNdspeXoGFWW891JbK+qBOieeXyNRwzj9LlCIUP
-        selected: false
-        status: Unchecked
-      - offset: 448
-        length: 6
+      - offset: 1932
+        length: 138
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 448
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: eZjJ6Hcw7KPAbdJSH5W2CBXpeAltyNHj98vzymhH7b+MVqyk2J57FBzjYXqITeu5Braam384lc8rD8wad80/Qjq8TOdQ/JpILZb33YaepzKUmrYizuL8jpy1B5iFbMXX
-        selected: false
-        status: Unchecked
-      - offset: 505
-        length: 6
+      - offset: 2227
+        length: 140
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 505
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: eZjJ6Hcw7KPAbdJSH5W2CCKoDN9/1VoGnt8EuNtzCQggu/6/SPQe0GSLLj6Z91W4p8rzZ/YO+5sMNg1JCS8GzL+RLAmRLIdgZwKSF0hTzMk2GowtaXqC+r15JcNy5R3t
-        selected: false
-        status: Unchecked
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
     learner_created: false
   - name: test/Tests.kt
     visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 26 Oct 2024 16:23:04 UTC"
 record: -1

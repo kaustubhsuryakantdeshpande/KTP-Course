@@ -4,68 +4,73 @@ files:
     visible: true
     placeholders:
       - offset: 101
-        length: 6
+        length: 255
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 101
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: ZEpnJqvdHzFYGB/7H9VUPw/t7gZp13Q9tRpZaSNrdMUi481rgvsdeGasx/RUkGJ4tL0HG5N3YlKAEsNMuwznkVVoD6jn9psHc2mKNWEtDe59R+8aDYWYLQhfGvRmvYIYjps+U0xM4Jq+Usre0OlttDmktAuxYkkRmoAPyK+Qh7PZJjhhexEkLjxuzRgjfZ9Zj8V60gcuhLkp/zDB+1Shsoa0xbjKbzjS1PaxpJ5ashT7hZ1zLHemzvMRcUrRdaFy5hI72R0j6AJjoJhWEzPspcfJC7w6F+0cDrBjlpLKCKg=
-        selected: false
-        status: Unchecked
-      - offset: 162
-        length: 6
+      - offset: 411
+        length: 26
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 162
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: o+d6b77UoNnE2U4oMvqzauOybJuU5G+qRuvN6uf5e3I=
-        selected: false
-        status: Unchecked
-      - offset: 242
-        length: 6
+      - offset: 530
+        length: 51
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 242
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: o+d6b77UoNnE2U4oMvqzavhq6KbrvfmKu//rzRRuPabrEhQu0/llX32ghjudYnxjFPetKQZkkYZzQJLMtwTvaw==
-        selected: false
-        status: Unchecked
-      - offset: 322
-        length: 6
+      - offset: 655
+        length: 51
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 322
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: SnEQ5lrCPUy18DqA1l9pVrudSpT86vlY/1IWz0ZCd13ygIGBMxMqBBqknCzLSHnb+FhFUbGKAUTdPzTZ30nXrQ==
-        selected: false
-        status: Unchecked
-      - offset: 382
-        length: 6
+      - offset: 760
+        length: 205
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 382
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: Z0KZvAwQRtj0vtM4NPRX7xC9OblpU/soDyzQ0//gx9Ocfa9F3FktdBFOOt9EHuMU3eFivLVfXsw7/Fpeb/oMkIDqUsq2LzOsMzDZ7xtpYL8SVFwxDucoMohDuwzJTnRJoaG8PJF77eL4IP3wLbPDhYZAMk8Illq7vUS5iyZjh3oczlFEdgqjo5CtEvV6KOvwi6+e59HaT/neB/uof9DZ8mKRCGnYp0WNLpBMjJqudk6z9AWJFg3ERvy/z9tdqmBG
-        selected: false
-        status: Unchecked
-      - offset: 432
-        length: 6
+      - offset: 1009
+        length: 44
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 432
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: UjOrKSbG4e2fkJckU+iDd6cUSFQabki106BbpvzVrCH1ppJVW1aDmluY2Dpi6t/M
-        selected: false
-        status: Unchecked
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
     learner_created: false
   - name: test/Tests.kt
     visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 26 Oct 2024 09:45:17 UTC"
 record: -1
