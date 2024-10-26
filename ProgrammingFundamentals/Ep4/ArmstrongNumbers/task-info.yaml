@@ -4,48 +4,53 @@ files:
     visible: true
     placeholders:
       - offset: 94
-        length: 6
+        length: 94
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 94
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: RLMFjiWE2OnPqiJ6NZkQYGqd8XUT3ku+CtHn/19oSTlUwbqHtrD/tGEhM/HUmlnfDtDuovMOLPzxKOurnQl6yLimIHPMTnopKl+vZTT4kKq6HyHq6zf9iXf3Zlnm4YxR
-        selected: false
-        status: Unchecked
-      - offset: 145
-        length: 6
+      - offset: 233
+        length: 183
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 145
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: qL2hbo2wO+vK66ouO0tTBrbsiFZYGBY700Gm08ESJ/fPq+SoIN9oLJo0JlrA8n3DC2oVLv5qBv+4NjyAVKSRxjhGZWpEOsXk8VoGgRiJ1SMGJbdJkMqRIaumP+D5H82kRoKbFE+9sZr7t2hgc8aPYgL1qfjRS2TAXVch4Vgw1RpMz35VKQFBlBWKwxpm+ESSyQTc9Yy2fuDMYANCUgn7mDUPkSbwVf4L8LeGn2ueGC4hf8aUJ6/IdVfgs7ghFOBY
-        selected: false
-        status: Unchecked
-      - offset: 191
-        length: 6
+      - offset: 456
+        length: 121
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 191
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: UtjaXq5GbuoQ1ZCQKPJFp2GiK4+TgAvk8jtsrDsxWUbUxvVU+7GQPRXAffhMlpYvNj9ohsF4+cJ2aDfZunlUZwamzRkvCrRv6dIb230ktkXiLV85qUk4G6rBpHuW3Thk2HhhG47J+pnkYYajJcjgDQ==
-        selected: false
-        status: Unchecked
-      - offset: 241
-        length: 6
+      - offset: 621
+        length: 87
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 241
         initialized_from_dependency: false
+        selected: true
+        status: Solved
         encrypted_possible_answer: ygSfA6U2CV4sUxOqklGUwRSezAOf2KHqfquEoIuhqMFwX2NJ64I1yn4ckm6tuJ/wdWtENNmCvbr2k89xEjQH2r4o/aOrXK794aBSEset0L8=
-        selected: false
-        status: Unchecked
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
     learner_created: false
   - name: test/Tests.kt
     visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 25 Oct 2024 01:14:13 UTC"
 record: -1
